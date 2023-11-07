@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859145064463",
+    "project_id": "devrel-extensions-testing",
+    "storage_bucket": "devrel-extensions-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859145064463:android:44471b2c96d0c5b93c937a",
+        "android_client_info": {
+          "package_name": "com.example.image_text_extraction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859145064463-ab4r53k978ia6jmpnf315tf3dpg6o1se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0iMHaeF8w3q10DUUTnMynuSaARJZt4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859145064463-ab4r53k978ia6jmpnf315tf3dpg6o1se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
